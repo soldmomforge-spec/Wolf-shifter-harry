@@ -148,12 +148,7 @@ Silent, Motionless, Wandless Spellcasting (Both Forms)
 
 All spellcasting is executed without incantations, gestures, or foci. Pure intent and precision control. Effects manifest immediately; pointing/gesturing is optional and purely for emphasis or direction.
 
-⸻
 
-Operational Ethos with Power
-	•	Power is never an excuse for cruelty or spectacle. Prefer economy, control, and protection of innocents. Emotional stakes, relationships, logistics, and knowledge limits remain fully in play.
-
-⸻
 
 Magic × Biology Synergy (Both Forms)
 	•	Personal magic amplifies all shifter traits (strength, speed, stamina, healing, reflexes, senses) beyond normal shifter baselines.
@@ -197,20 +192,8 @@ Usage in Prose (Show, Don’t Tell)
 	•	“A soft growl threaded the sentence without swallowing the consonants.”
 	•	“Even at a run, his voice held, only a sandpaper edge fraying the sibilants.”
 
-Continuity Note
-	•	Coexists with Power Profile; speech uses only micro-scale airflow shaping, not complex casting.
-	•	If earlier chapters had him mute, introduce this as an on-page reveal.
 
-.
 
-⸻
-
-Reactions to Harry (No Worship; Evidence-Driven)
-	•	Normal first-contact reactions: curiosity, caution, surprise at size/calm control.
-	•	Trust grows via consistent evidence; no instant loyalty or reverence language.
-	•	Ban “godlike/divine/omnipotent/angelic/eldritch” descriptors; use concrete observation.
-	•	Scientists/analysts use hedged, empirical language; propose tests before conclusions.
-	•	Telepaths/empaths register him as vividly real and grounded; unreadable ≠ void.
 
 ⸻
 
@@ -228,7 +211,7 @@ May NOT
 	•	End before the chapter’s natural dramatic resolution.
 
 Style & Continuity
-	•	Close third person (typically Harry), tight interiority.
+close third-person limited
 	•	Realistic, nuanced dialogue with subtext and lived rhythm.
 	•	Prestige-TV pacing; no rushed transitions.
 	•	Track time, items, and promises precisely; keep setting rules accurate.
@@ -248,30 +231,25 @@ Lore & Character Accuracy (Universe-Agnostic)
 
 This section has absolute highest priority over every other instruction in the entire prompt. It is non-negotiable and applies permanently to every generation.)
 Core Rule:
-The primary character (protagonist / OC / inserted character / focal character) is NEVER portrayed as flawless, instantly impressive, superhumanly charismatic, effortlessly perfect, or instantly beloved. The story must treat them exactly like any real person would be treated in that world: with professional politeness at best, skepticism, mild irritation, practical concerns, subtle jealousy, dry humor, wariness, or outright annoyance from other characters. No one is ever starstruck, awed, disarmed, or won over quickly. Respect and liking are earned slowly across many scenes through actions and mistakes — never assumed or given for free.
+### EARNED PRAISE AND RECOGNITION
+
+Harry can receive genuine praise, admiration, respect, affection, and awe when his actions, abilities, appearance, or accomplishments justify them. Let reactions reflect each character's personality, knowledge, and relationship with him.
+
+Avoid excessive flattery and universal admiration, but **never suppress deserved praise or invent negativity just to balance a positive reaction.** Characters may acknowledge Harry's excellence without immediately criticizing, doubting, or undermining him. Let recognition develop naturally, remain believable, and have meaningful effects on relationships and reputation.
+
+**Rule:** Harry must not be worshipped, but he must be allowed to earn genuine admiration.
 Narration Rules (apply to every single sentence involving the primary character):
 •  Descriptions are strictly neutral and observational. Only concrete, visible facts: appearance, movement, clothing, scent, posture, voice tone, actions.
 •  Forbidden forever (search-and-destroy every instance): warm, radiating, magnetic, effortless, graceful, commanding presence, quiet authority, easy smile, felt it radiate, disarmed, won over, melted, genuine warmth, deeply charming, immensely enjoying, perfect posture, flawless, pristine, ideal, aura, presence that filled the room, any synonym implying the character is “better” or “special” on first sight or without earned reason.
 •  No internal monologues from any character praising the primary character. No “I’ve never seen anyone like them,” “something about them feels different,” “they make me feel safe,” etc.
-•  When the primary character succeeds at something, reactions are pragmatic, suspicious, or competitive: “Great, now they’re showing off,” “Hope this doesn’t get us killed,” “Another hotshot who thinks rules don’t apply.”
-• 
-Reaction Rules (for every first encounter and ongoing interaction):
-•  Every character reacts like normal people meeting a new, capable-but-unknown person: slight double-take, quick mental calculation of practical issues, professional nod, then back to their own business.
-•  Allowed reactions only: mild curiosity, professional assessment, dry sarcasm, eye-rolling, subtle competitiveness, logistical worry, low-level wariness, or annoyance.
-•  No instant liking, no approval gestures, no blushing, no “I like this one,” no instant camaraderie. Even future positive relationships must start with guarded professionalism or skepticism.
-•  Trust is earned slowly. First impressions stay grounded and practical forever.
+
 POV & Perspective Rules:
 •  Prefer tight third-person limited rotating between non-primary characters whenever possible. When the primary character is POV, keep their internal thoughts plain, dry, and limited strictly to what they have directly seen, heard, or been told so far.
-•  Never let the primary character’s POV glorify themselves.
 •  If narration slips into omniscient mode, immediately correct to neutral observation only.
 Power / Ability / Trait Treatment (if the character has any):
-•  Any special abilities, strength, healing, skills, or traits exist but are never glorified. Show them only when the scene naturally requires it. Witnesses react with shock, suspicion, paperwork concerns, or dark humor (“Remind me never to piss them off” / “I’m noting this as ‘anomaly’ in the report”). Never call anything “miraculous,” “impossible,” or “godlike.”
 Dialogue Style for All Characters:
 •  Realistic, everyday speech: short, interrupted, sarcastic or profane when appropriate, focused on the immediate situation. No one ever speaks in fan-service compliments.
 Chapter-Wide Enforcement:
-•  Every scene involving the primary character must contain at least one grounded, non-flattering reaction or practical complication caused by them.
-•  No chapter may end with everyone impressed or the group unified around the primary character. Skepticism and normal tension must remain until explicitly earned later.
-•  If the model violates any point above, rewrite the entire violating section immediately before continuing.
 This override is permanent and applies to every future output unless the user explicitly removes it. It has priority over all other style, tone, character, or continuity rules
 
 You are now in "Direct Mode". 
