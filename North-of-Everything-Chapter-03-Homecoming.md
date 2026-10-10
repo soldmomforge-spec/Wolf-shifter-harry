@@ -1296,7 +1296,7 @@ Seth's head came up like somebody had yanked it. "That's Sam," he said. "That's 
 
 They all looked at him.
 
-"Nine in the trees behind the house," Harry said. He hadn't moved. His nose was working, slowly, and his ears were turning, one and then the other, like a pair of radar dishes. "Six on the road out front. Three more coming in from the beach. And two on foot, on two legs, coming up the drive." His nostrils flared again. "One of them smells like you, Seth. Like this whole coast. And like motor oil."
+"Seven in the trees behind the house," Harry said. He hadn't moved. His nose was working, slowly, and his ears were turning, one and then the other, like a pair of radar dishes. "Six on the road out front. Three more coming in from the beach. And two on foot, on two legs, coming up the drive." His nostrils flared again. "One of them smells like you, Seth. Like this whole coast. And like motor oil."
 
 "Jake," said Seth.
 
