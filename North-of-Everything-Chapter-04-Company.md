@@ -34,7 +34,7 @@ Sam was staring at her.
 
 Leah made herself look back.
 
-He looked the same. That was what got her, for a second. Same face. Same square jaw and heavy brows and long straight nose, and the mouth that had been the first mouth she ever kissed, at a bonfire on First Beach when she was sixteen. Same way of standing, shoulders back, chin down, feet planted, like he'd put roots down into the gravel. He was twenty-four now. He looked older than that. There were lines at the corners of his eyes she didn't remember. He held his shoulders like a man halfway up a long flight of stairs with something heavy on his back.
+He looked the same. That was what got her, for a second. Same face. Same square jaw and heavy brows and long straight nose, and the mouth that had been the first mouth she ever kissed, at a bonfire on First Beach when she was sixteen. Same way of standing, shoulders back, chin down, feet planted, like he'd put roots down into the gravel. He was twenty-two now. He looked older than that. There were lines at the corners of his eyes she didn't remember. He held his shoulders like a man halfway up a long flight of stairs with something heavy on his back.
 
 She waited for it to hurt.
 
@@ -916,7 +916,7 @@ Sue watched him do it and didn't say anything.
 
 The phone rang.
 
-She knew who it was before she picked it up. There was only one person who'd call at this hour on a Saturday, and he'd have been wondering all afternoon.
+She knew who it was before she picked it up. There was only one person who'd call at this hour on a Friday, and he'd have been wondering all afternoon.
 
 "Sue," said Charlie's voice, in her ear. "You're not gonna believe this. There's a car—I'm on 101, I'm on my way home, and there was this car came through town around four, this huge black—"
 
