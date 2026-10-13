@@ -1038,7 +1038,7 @@ Jasper stopped.
 
 That was all. Just the name, and a small nod.
 
-Edward heard Rosalie's mind, braced, rigid, waiting for Rochester — for Royce King, for the street, for what she'd done to all five of them afterward in their wedding clothes. And he heard it not come. He watched the man's green eyes move off her without another word.
+Edward heard Rosalie's mind, braced, rigid, waiting for Rochester — for Royce King, for the street, for what she'd done to all five of them afterward in her wedding dress. And he heard it not come. He watched the man's green eyes move off her without another word.
 
 Rosalie didn't relax. She didn't thank him either, even in her head. But she stopped hissing.
 
