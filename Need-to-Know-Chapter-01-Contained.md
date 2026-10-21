@@ -838,7 +838,7 @@ Aro would want them. All of them.
 
 He looked over at Alice.
 
-She was sitting on the stairs, where she'd been the whole time, with her chin in her hands. She'd been quiet too. That was strange. Alice was never quiet with someone new. Edward had assumed it was the wolves. Seth was sitting right next to Layla. Alice had complained for a year that she couldn't see anything around them, that the dogs blotted out the future like spilled ink.
+She was sitting on the stairs, where she'd been the whole time, with her chin in her hands. She'd been quiet too. That was strange. Alice was never quiet with someone new. Edward had assumed it was the wolves. Seth was sitting right next to Layla. Alice had complained for months that she couldn't see anything around them, that the dogs blotted out the future like spilled ink.
 
 Her mind was on something else now.
 
@@ -1531,7 +1531,7 @@ The rain came down. The leech hung upside down from nothing, its eyes rolling.
 
 The bottom dropped out of Leah's stomach.
 
-She'd been in Sam's head for a year. She'd been in Jacob's head and Seth's head and Quil's and Embry's and every other wolf on the reservation's head since the night she first phased. She'd had every single thing she'd ever thought or felt or remembered spread out on a table for the whole pack to pick through, Sam and Emily and the wedding she'd had to stand at, and the nights she'd cried herself to sleep, and the stupid, private, hopeless thing she sometimes still thought about at three in the morning, the thing about kids, about never being able to have them now, about being some kind of genetic dead end. All of it. For a year and a half. She'd finally gotten to where she could stand it. Barely.
+She'd been in Sam's head all spring and summer. She'd been in Jacob's head and Seth's head and Quil's and Embry's and every other wolf on the reservation's head since the night she first phased. She'd had every single thing she'd ever thought or felt or remembered spread out on a table for the whole pack to pick through, Sam and Emily and the wedding she'd had to stand at, and the nights she'd cried herself to sleep, and the stupid, private, hopeless thing she sometimes still thought about at three in the morning, the thing about kids, about never being able to have them now, about being some kind of genetic dead end. All of it. For eight months. She'd finally gotten to where she could stand it. Barely.
 
 And now some stranger in a suit was just standing in the rain *reading* it.
 
@@ -1688,7 +1688,7 @@ She'd been standing at Gran's counter with a mug of coffee in one hand and the s
 
 The world squeezed. Went black. Came back.
 
-Rain. Cold. Ferns. Moss under her socked feet, soaking through instantly. Dusk light, gray and dim, coming down through enormous trees. And Seth. Seth, right beside her, in his wolf shape, which she'd seen exactly four times and still couldn't look at without her heart doing something stupid. Huge and sandy and wet, hackles up all along his spine, lips peeled back off teeth as long as her fingers. Leah on the other side of him, smaller, gray, crouched low in a sword fern with her ears flat.
+Rain. Cold. Ferns. Moss under her socked feet, soaking through instantly. Dusk light, gray and dim, coming down through enormous trees. And Seth. Seth, right beside her, in his wolf shape, which she'd seen exactly four times and still couldn't look at without her heart doing something stupid. Huge and sandy and wet, hackles up all along his spine, lips peeled back off teeth as long as her fingers. Leah on the other side of him, gray, near enough his size, crouched low in a sword fern with her ears flat.
 
 And a man.
 
@@ -2153,7 +2153,7 @@ She didn't remember standing up. She was just up, and moving, and the clearing w
 
 She ran. Down off the north bank. Across the Calawah at the shallows, the river freezing and loud around her legs, up the other side. South. Through the dark. The rope pulled and she followed it, through the old-growth and the second-growth and the clearcuts and back into the old-growth, across the highway in one long leap with a logging truck's headlights going by under her, into the trees on the other side.
 
-She didn't think. She couldn't think. Every time she tried to think, it was Sam. It was Sam's face the day he came back from the Makah reservation. It was the way he'd looked at her, like she was somebody he used to know. It was standing at the wedding in that stupid dress. It was a year and a half of everybody's pity in her head, and Emily's scars, and Emily's kindness, which was so much worse than the scars. It was every night she'd lain awake hating this thing, this stupid magic thing that reached into people's chests and took them away from you and tied them to somebody else, without asking, without caring, without anybody ever getting a say.
+She didn't think. She couldn't think. Every time she tried to think, it was Sam. It was Sam's face the day he came back from the Makah reservation. It was the way he'd looked at her, like she was somebody he used to know. It was standing at the wedding in that stupid dress. It was eight months of everybody's pity in her head, and Emily's scars, and Emily's kindness, which was so much worse than the scars. It was every night she'd lain awake hating this thing, this stupid magic thing that reached into people's chests and took them away from you and tied them to somebody else, without asking, without caring, without anybody ever getting a say.
 
 And it had just done it to her.
 
@@ -2867,7 +2867,7 @@ She opened her mouth to say *nobody*. She felt the word get stuck. Felt her jaw 
 
 She shut her mouth.
 
-"Sam Uley," she said. "He was my boyfriend. Since I was fourteen. We were going to get married. He phased first, before anybody, and he disappeared for two weeks, and when he came back he couldn't tell me anything, and I thought he was cheating on me. And then my cousin came to visit from the Makah rez. Emily. My best friend. And he looked at her." She heard her own voice. Flat. Calm. Like she was reading it off a card. "And that was it. He imprinted. Like Seth did. Like you—like whatever *this* is. He looked at her, and he stopped loving me, and he couldn't help it, and he married her last year, and I was a bridesmaid. And then I phased, and I had to live in his head. In his head, while he was thinking about her. For a year."
+"Sam Uley," she said. "He was my boyfriend. Since I was fourteen. We were going to get married. He phased first, before anybody, and he disappeared for two weeks, and when he came back he couldn't tell me anything, and I thought he was cheating on me. And then my cousin came to visit from the Makah rez. Emily. My best friend. And he looked at her." She heard her own voice. Flat. Calm. Like she was reading it off a card. "And that was it. He imprinted. Like Seth did. Like you—like whatever *this* is. He looked at her, and he stopped loving me, and he couldn't help it, and he married her last year, and I was a bridesmaid. And then I phased, and I had to live in his head. In his head, while he was thinking about her. For months."
 
 Harry didn't say anything.
 
@@ -2893,7 +2893,7 @@ She didn't know where it came from. She'd never said it out loud. Not to Mom. No
 
 She waited for him to say *I'm sorry*. Everybody always said *I'm sorry*. She'd heard it in everybody's head.
 
-"Maybe you can't," Harry said. "Maybe you can. I don't know. I'd have to look into it, and I'd want to ask first." He looked at her. "But that's a thing your body does, Leah. You're a wolf who runs at a hundred and eight degrees and heals like a starfish and turns into a hundred and twenty pounds of teeth when she's cross, and your body's had to make a lot of room for that. It's made some trade-offs. That's what bodies do." He held her eyes. "Broken's when something can't do what it's for. You came through my ward in a dead run with half a pack mind screaming at you to stop, by feel, from ten miles out, because something was pulling. That's about the least broken thing I've ever seen."
+"Maybe you can't," Harry said. "Maybe you can. I don't know. I'd have to look into it, and I'd want to ask first." He looked at her. "But that's a thing your body does, Leah. You're a wolf who runs at a hundred and eight degrees and heals like a starfish and turns into the better part of a ton of teeth when she's cross, and your body's had to make a lot of room for that. It's made some trade-offs. That's what bodies do." He held her eyes. "Broken's when something can't do what it's for. You came through my ward in a dead run with half a pack mind screaming at you to stop, by feel, from ten miles out, because something was pulling. That's about the least broken thing I've ever seen."
 
 She didn't say anything.
 
@@ -3447,7 +3447,7 @@ He looked at Leah instead.
 
 He didn't mean to. Or he did, but not the way he usually did. He looked at her because she was the one who'd walked out first, because she'd stopped walking at the exact edge of the ward, the line where Jacob had been turned around six times. One bare foot on either side of it. She stood there with her arms crossed and her chin up and her face doing that thing Jacob couldn't name. And her mind was wide open.
 
-It was always wide open. Leah had never once in a year and a half tried to keep Edward out. She'd told him once, in the Cullens' kitchen, when he'd apologized for hearing something she'd been thinking about Sam: *Why would I bother? Every dog on the rez has already seen it. What's one more?* She'd said it like an insult. He'd understood, later, that it was the closest thing to trust she knew how to give.
+It was always wide open. Leah had never once, in all the months he'd known her, tried to keep Edward out. She'd told him once, in the Cullens' kitchen, when he'd apologized for hearing something she'd been thinking about Sam: *Why would I bother? Every dog on the rez has already seen it. What's one more?* She'd said it like an insult. He'd understood, later, that it was the closest thing to trust she knew how to give.
 
 So he heard it all.
 
