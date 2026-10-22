@@ -4208,7 +4208,7 @@ He turned back round.
 
 She was standing in front of the spruce in the dark. A grey wolf. In the afternoon, on the ridge, through the dark glasses, with a vampire in the air and a witch throwing curses at him, he'd seen her as a problem: a big angry animal with a lot of teeth, one variable among several. He looked at her now with nothing else in the way.
 
-She was tall at the shoulder, taller than he was. Long-legged, deep-chested, built narrow and fine for speed, the way a greyhound was built, or a cheetah. Her coat was a soft dark smoke-grey, silver-tipped where the rain had caught it, darker down the spine. Her ears were up. Her eyes were on him, dark and steady, and they were Leah's.
+She was tall at the shoulder, level with the top of his head, about her brother's size. Long-legged, deep-chested, built narrow and fine for speed, the way a greyhound was built, or a cheetah. Her coat was a soft dark smoke-grey, silver-tipped where the rain had caught it, darker down the spine. Her ears were up. Her eyes were on him, dark and steady, and they were Leah's.
 
 And under his breastbone, the thing behind the locks went mad.
 
