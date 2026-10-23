@@ -1396,6 +1396,8 @@ He did the sum without meaning to. He always did sums. The big russet one, the b
 
 He was, he reckoned, about a head taller than that. And something over twelve feet long, from his nose to where his tail started.
 
+And her. He went back over it without meaning to, the way he went back over everything. On the slab that morning, before anything else had happened, the two of them had been side by side with their teeth out, and the grey one had stood a good head taller at the shoulder than her brother. The boy was all legs and ears and still growing into them; he'd be big one day. She was big now. Her shoulder would come about level with the top of Harry's head, in his other shape. At the tent that evening, with nothing in between them, he'd looked at her and thought *about her brother's size*, and he'd been wrong, and he knew why. He'd had other things on his mind.
+
 He hadn't been, in 2003. He'd been big then, but not this big. He'd grown. It had kept growing, down in the dark, all this time, on its own.
 
 "Huh," said Harry.
