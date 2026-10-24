@@ -524,7 +524,7 @@ Her voice was very calm. Her mind wasn't. Edward had been listening to it all af
 
 "No. No. Uh-uh." She laughed. It came out of her cracked down the middle. "*No me jodas.*" She put her hand over her mouth. She took it away. "Are you sure? Are you *sure*? You're not—it couldn't be somebody else, it's a common enough name over there, it's like John Smith, there could be—"
 
-"It's in her head," said Edward, "and she's been certain of it since the ridge. He said it to her himself. I'm sure."
+"It's in her head," said Edward, "and she's been certain of it since this afternoon. He said it to her himself. I'm sure."
 
 Layla sat back against the couch cushions very slowly, as if her back had suddenly started hurting again, and looked up at the ceiling.
 
